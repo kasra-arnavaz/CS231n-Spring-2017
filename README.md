@@ -4,4 +4,4 @@ This is my solution to CS231n Spring 2017 homework assignments. CS231n is a Stan
 
 I myself had not taken the class; I just followed it online and found the homework assignments so instructive that I decided to share them here in case anyone was looking to double-check their answers. Lastly, if you have any questions or suggestions feel free to submit an issue.
 
-I'm currently working on assignment 3 and will update the code as soon as it's finished.
+I'm currently working on assignment 3 and will upload the code as soon as it's finished.
